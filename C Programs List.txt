@@ -1,0 +1,157 @@
+Uncategorized:
+1. Swap 2 numbers
+2. Swap 2 numbers without using 3rd variable
+3. Use of const, enum, union, typedef
+
+Conditionals:
+1. Check Even/Odd
+2. Check Positive/Negative
+3. Find largest number
+4. Input a coordinate point in a XY coordinate system and determine
+in which quadrant the coordinate point lies [Use switch case]
+5. Check if a character is alpha, digit or special char
+
+Bit-wise Operators:
+1. Convert Binary to Decimal
+2. Convert Decimal to Binary
+3. Multiply and Divide by 2 using Bit-wise Operators
+4. Check Even/Odd using Bit-wise Operators
+5. Compare Numbers for their equality using '^' Operator
+
+Loops:
+1. Display first 'n' natural numbers
+2. Find Sum and Average of first 'n' natural numbers
+3. Display Multiplication Table of a given number
+4. Display Multiplication Tables of numbers from 1 to 'n'
+5. Display first 'n' even/odd natural numbers
+6. Check if 'n' is a Prime Number
+7. Display Prime Numbers in a given range
+8. Find Factorial
+9. Display first 'n' terms of Fibonacci Series
+10. Check if a number is a Palindrome or not
+11. Find Sum & Product of digits of a number
+12. Reverse digits of a number
+13. Find Frequency of each digit of a number
+14. Find factors of a number
+15. Find HCF of 2 numbers
+16. Find LCM of 2 numbers
+17. Display these patterns with length 'n' using only one loop [can have multi-inner loop]:
+i)
+*
+**
+***
+ii)
+***
+**
+*
+iii)
+  *
+ **
+***
+iv)
+***
+ **
+  *
+v)
+  *
+ * *
+* * *
+vi)
+* * *
+ * *
+  *
+vii)
+  *
+ * *
+* * *
+ * *
+  *
+
+Arrays:
+1. Store and print elements in an Array
+2. Reverse an Array
+3. Find Sum of elements in an Array
+4. Copy elements of one Array into another Array
+5. Append one Array into another
+6. Merge 2 Arrays
+7. Print frequency of each element in an Array
+8. Find max & min elements
+9. Insert a value in an Array
+10. Delete a value in an Array
+11. Rotate Array by 'n' positions
+12. Check if an Array is subset of another Array
+
+Matrices:
+1. Store and print elements in a 2D Array
+2. Matrix Addition
+3. Matrix Multiplication
+4. Find Transpose
+5. Find Sum of Left and Right Diagonals separately
+6. Find Sum of both diagonals without repeating any value
+7. Find Determinant
+8. Check if a Matrix is a Symmetric Matrix
+
+Strings:
+1. Find Length of a String
+2. Count number of words
+3. Check if a String is a Palindrome or not
+4. Reverse a String and store it without using extra Array/String
+5. Find max occurring character
+6. Toggle case of chars [Convert lowercase chars to uppercase chars & Vice Versa]
+in a String
+7. Convert String to Number
+8. Concatenate 2 Strings
+9. Find longest & smallest word in a String
+10. Replace a given character with a given character in a String
+11. Store words of a String into an Array
+12. Compare 2 Strings if they're equal or print greater one
+
+Pointers:
+1. Change value in a variable with a Pointer
+2. Add two numbers using Pointers
+3. Traverse String/Array using Pointer
+
+Functions:
+1. Function that takes 2 numbers, adds them and returns the result
+2. Function to swap 2 numbers [Call by Reference]
+3. Take any program and make a function for it
+
+Recursion:
+1. Print Fibonacci Series using Recursion
+2. Find Factorial using Recursion
+3. Find HCF using Recursion
+4. Reverse a String using Recursion
+5. Convert Decimal to Binary using Recursion
+6. Check Prime number using Recursion
+7. Print Prime numbers in a given range using Recursion
+8. Binary Search using Recursion
+
+Structures:
+1. Create Student structure and have functions you like to make.
+
+Dynamic Memory Allocation [DMA]:
+1. Take any program and use DMA in that for Arrays/Strings
+
+Data Structures:
+1. Stack Array
+2. Stack Linked List
+3. Queue Array
+4. Queue Linked List
+
+Algorithms - Searching:
+1. Linear Search
+2. Binary Search
+
+Algorithms - Sorting:
+1. Selection Sort
+2. Bubble Sort
+3. Quick Sort
+4. Insertion Sort
+5. Merge Sort
+
+Extras:
+1. Take String Input and determine if it is a number or not.
+2. Count number of words [considering double spaces]
+3. Make a Calculator with basic operations
+4. Multiply and Divide with Bit-wise operators
+5. Find sum of the series 1 + 11 + 111 + 1111 +.. 'n' terms
